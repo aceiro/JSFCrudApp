@@ -1,9 +1,11 @@
-package test.com.facade;
+package com.facade;
  
-import static junit.framework.Assert.assertEquals;
- 
+
+import static org.junit.Assert.*;
+
 import org.junit.Test;
  
+
 import com.facade.DogFacade;
 import com.model.Dog;
  

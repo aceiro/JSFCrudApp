@@ -1,16 +1,14 @@
-package test.com.model;
+package com.model;
  
-import static junit.framework.Assert.assertEquals;
- 
+
+
+import static org.junit.Assert.*;
+
 import org.junit.Test;
- 
-import com.facade.DogFacade;
-import com.model.Dog;
-import com.model.User;
  
 public class UserTest {
  
-    @Test
+	@Test
     public void isNameOfUser(){
     	User u = new User();
         u.setName("jonas");
