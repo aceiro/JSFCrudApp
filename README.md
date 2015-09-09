@@ -23,7 +23,9 @@ Para maiores informações acessar o material com tutorial sobre a aplicação d
 
  `insert into jsfcruddb.users (email,name,password,role) values ('teste2@email.com','antonio','123mudar','USER');`
  
- ### Screenshot
+### Screenshot
+
+Segue o exemplo da tela inicial do projeto  - precisa de ajustes abviamente :)
 
 <p align="center">
   <img src="https://github.com/aceiro/JSFCrudApp/blob/master/screenshot/login.png" alt="Screenshot"/>
