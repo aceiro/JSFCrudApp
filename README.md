@@ -19,9 +19,9 @@ Para maiores informações acessar o material com tutorial sobre a aplicação d
  
 - Adicionar ao menos um usuário ADMIN (originalmente com o logo do Real Madrid) e o outro uruário USER (como sendo Barcelona).
  
- `insert into jsfcruddb.users (email,name,password,role) values ('teste@email.com','erik','123mudar','ADMIN');`
+ `insert into jsfcruddb.users (email,name,password,role) values ('teste1@email.com','erik','123mudar','ADMIN');`
 
- `insert into `jsfcruddb`.users (email,name,password,role) values ('teste@email.com','antonio','123mudar','USER');`
+ `insert into jsfcruddb.users (email,name,password,role) values ('teste2@email.com','antonio','123mudar','USER');`
 
 ### Desenvolvimento
  Essa versão do JSFCrudApp foi desenvolvida por Erik Aceiro Antonio para um breve curso de JSF/Hibernate e Padrões de Projeto.
